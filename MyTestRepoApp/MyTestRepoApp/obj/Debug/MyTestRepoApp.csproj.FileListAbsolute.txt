@@ -1,0 +1,6 @@
+C:\Users\nirodriguez\Documents\GitHub\TestLocal\MyTestRepoApp\MyTestRepoApp\bin\Debug\MyTestRepoApp.exe.config
+C:\Users\nirodriguez\Documents\GitHub\TestLocal\MyTestRepoApp\MyTestRepoApp\bin\Debug\MyTestRepoApp.exe
+C:\Users\nirodriguez\Documents\GitHub\TestLocal\MyTestRepoApp\MyTestRepoApp\bin\Debug\MyTestRepoApp.pdb
+C:\Users\nirodriguez\Documents\GitHub\TestLocal\MyTestRepoApp\MyTestRepoApp\obj\Debug\MyTestRepoApp.csprojResolveAssemblyReference.cache
+C:\Users\nirodriguez\Documents\GitHub\TestLocal\MyTestRepoApp\MyTestRepoApp\obj\Debug\MyTestRepoApp.exe
+C:\Users\nirodriguez\Documents\GitHub\TestLocal\MyTestRepoApp\MyTestRepoApp\obj\Debug\MyTestRepoApp.pdb
