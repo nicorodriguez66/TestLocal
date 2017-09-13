@@ -12,6 +12,8 @@ namespace MyTestRepoApp
         {
             Console.WriteLine("Primera Rama");
             Console.WriteLine("Feature1");
+            Console.WriteLine("OtroFeature1");
+
             Console.ReadKey();
         }
     }
